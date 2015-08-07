@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FF502B84-6B3C-408A-887A-D49DC771E8E4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SlideMenu</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AD700916319179904D09DE5AF9B996008523B500</key>
+		<string>https://github.com/firewolf-ljw/SlideMenu.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SlideMenu/SlideMenu.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AD700916319179904D09DE5AF9B996008523B500</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/firewolf-ljw/SlideMenu.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AD700916319179904D09DE5AF9B996008523B500</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AD700916319179904D09DE5AF9B996008523B500</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SlideMenu</string>
+		</dict>
+	</array>
+</dict>
+</plist>
